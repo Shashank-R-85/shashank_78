@@ -10,14 +10,14 @@
 
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 10px;
 }
 ::-webkit-scrollbar-track {
     background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
     background: #6e93f7;
-    border-radius: 8px;
+    border-radius: 12px;
     transition: all 0.3s ease;
 }
 
@@ -159,7 +159,7 @@ nav.sticky .menu-btn{
   color: #0E2431;
   font-size: 50px;
   font-weight: 500;
-  margin-left: -3px;
+  margin-left: -2px;
 }
 .home .text-three{
   font-size: 40px;
@@ -168,7 +168,7 @@ nav.sticky .menu-btn{
 }
 .home .text-four{
   font-size: 23px;
-  margin: 5px 0;
+  margin: 7px 0;
   color: #0E2431;
 }
 .home .button{
