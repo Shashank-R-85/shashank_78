@@ -10,14 +10,14 @@
 
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 5px;
 }
 ::-webkit-scrollbar-track {
     background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
     background: #6e93f7;
-    border-radius: 12px;
+    border-radius: 8px;
     transition: all 0.3s ease;
 }
 
@@ -90,7 +90,7 @@ nav .menu-btn,
 .navbar .menu .cancel-btn{
   position: absolute;
   color: #fff;
-  right: 30px;
+  right: 40px;
   top: 20px;
   font-size: 20px;
   cursor: pointer;
