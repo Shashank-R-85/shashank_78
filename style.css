@@ -10,7 +10,7 @@
 
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 15px;
 }
 ::-webkit-scrollbar-track {
     background: #f1f1f1;
@@ -28,14 +28,14 @@
 nav{
   position: fixed;
   width: 100%;
-  padding: 20px 0;
+  padding: 25px 0;
   z-index: 998;
   transition: all 0.3s ease;
   font-family: 'Ubuntu', sans-serif;
 }
 nav.sticky{
   background: #4070f4;
-  padding: 13px 0;
+  padding: 18px 0;
 }
 nav .navbar{
   width: 90%;
