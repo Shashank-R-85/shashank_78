@@ -38,7 +38,7 @@ $(document).ready(function () {
   // Scroll up Button script end
 
   // animation Script for display
-  const animationScript = ["B.com Graduate", "And Computer skills"];
+  const animationScript = ["B.com Graduate", "Computer skills"];
 
   // Typing animation script start
   new Typed(".typing", {
